@@ -120,7 +120,7 @@ def page(path, title, desc, body, extra_ld=()):
 <meta property="og:type" content="website"><meta property="og:site_name" content="마틴랩스 Martin Labs">
 <meta property="og:title" content="{title}"><meta property="og:description" content="{desc}"><meta property="og:url" content="{BASE}{path}">
 <meta property="og:locale" content="ko_KR">
-<meta name="theme-color" content="#14382A">
+<meta name="theme-color" content="#071132">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;700;900&display=swap">
